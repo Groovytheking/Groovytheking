@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Groovytheking
-- 👀 I’m interested in front-end engineering
-- 🌱 I’m currently learning HTML/CSS/JS
-- 💞️ I’m looking to collaborate on projects to help improve
-- 📫 How to reach me via email: x @_mordi001
+- 👋 Hi, I’m Mordi Kelechi
+- 👀 An Agile Project Manager with experience in Wellness
+- 🌱 I ride wild bulls in my sleep (bucket list)
+- 💞️ I’m looking forward to strategic collaborations
+- 📫 How to reach me via email: blackmordi01@gmail.com
 
 
 <!---
